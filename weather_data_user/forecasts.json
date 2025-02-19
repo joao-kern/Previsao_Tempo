@@ -1,0 +1,342 @@
+{
+    "joao": [
+        {
+            "city": "São Paulo",
+            "date": "2024-12-06",
+            "min_temp_°C": 20.1,
+            "max_temp_°C": 28.4,
+            "chance_rain_%": 45
+        },
+        {
+            "city": "São Paulo",
+            "date": "2024-12-07",
+            "min_temp_°C": 21.0,
+            "max_temp_°C": 32.8,
+            "chance_rain_%": 79
+        },
+        {
+            "city": "São Paulo",
+            "date": "2024-12-08",
+            "min_temp_°C": 20.7,
+            "max_temp_°C": 26.6,
+            "chance_rain_%": 89
+        },
+        {
+            "city": "São Paulo",
+            "date": "2024-12-09",
+            "min_temp_°C": 19.3,
+            "max_temp_°C": 22.5,
+            "chance_rain_%": 82
+        },
+        {
+            "city": "São Paulo",
+            "date": "2024-12-10",
+            "min_temp_°C": 19.4,
+            "max_temp_°C": 24.2,
+            "chance_rain_%": 81
+        },
+        {
+            "city": "São Paulo",
+            "date": "2024-12-11",
+            "min_temp_°C": 18.5,
+            "max_temp_°C": 23.5,
+            "chance_rain_%": 85
+        },
+        {
+            "city": "São Paulo",
+            "date": "2024-12-12",
+            "min_temp_°C": 17.4,
+            "max_temp_°C": 26.0,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "São Paulo",
+            "date": "2024-12-13",
+            "min_temp_°C": 18.4,
+            "max_temp_°C": 30.6,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "São Paulo",
+            "date": "2024-12-14",
+            "min_temp_°C": 21.0,
+            "max_temp_°C": 23.2,
+            "chance_rain_%": 78
+        },
+        {
+            "city": "São Paulo",
+            "date": "2024-12-15",
+            "min_temp_°C": 20.4,
+            "max_temp_°C": 23.5,
+            "chance_rain_%": 83
+        },
+        {
+            "city": "Tóquio",
+            "date": "2024-12-06",
+            "min_temp_°C": 10.4,
+            "max_temp_°C": 16.0,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Tóquio",
+            "date": "2024-12-07",
+            "min_temp_°C": 8.5,
+            "max_temp_°C": 11.1,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Tóquio",
+            "date": "2024-12-08",
+            "min_temp_°C": 7.5,
+            "max_temp_°C": 12.5,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Tóquio",
+            "date": "2024-12-09",
+            "min_temp_°C": 6.4,
+            "max_temp_°C": 10.8,
+            "chance_rain_%": 82
+        },
+        {
+            "city": "Tóquio",
+            "date": "2024-12-10",
+            "min_temp_°C": 7.3,
+            "max_temp_°C": 11.6,
+            "chance_rain_%": 76
+        },
+        {
+            "city": "Tóquio",
+            "date": "2024-12-11",
+            "min_temp_°C": 7.3,
+            "max_temp_°C": 12.7,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Tóquio",
+            "date": "2024-12-12",
+            "min_temp_°C": 5.7,
+            "max_temp_°C": 9.3,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Tóquio",
+            "date": "2024-12-13",
+            "min_temp_°C": 5.9,
+            "max_temp_°C": 10.3,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Tóquio",
+            "date": "2024-12-14",
+            "min_temp_°C": 7.4,
+            "max_temp_°C": 10.8,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Tóquio",
+            "date": "2024-12-15",
+            "min_temp_°C": 6.0,
+            "max_temp_°C": 8.2,
+            "chance_rain_%": 85
+        },
+        {
+            "city": "Tóquio",
+            "date": "2024-12-16",
+            "min_temp_°C": 5.3,
+            "max_temp_°C": 9.5,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Varsóvia",
+            "date": "2024-12-09",
+            "min_temp_°C": 3.4,
+            "max_temp_°C": 5.1,
+            "chance_rain_%": 100
+        },
+        {
+            "city": "Varsóvia",
+            "date": "2024-12-10",
+            "min_temp_°C": 0.6,
+            "max_temp_°C": 2.4,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Varsóvia",
+            "date": "2024-12-11",
+            "min_temp_°C": 0.3,
+            "max_temp_°C": 2.3,
+            "chance_rain_%": 86
+        },
+        {
+            "city": "Varsóvia",
+            "date": "2024-12-12",
+            "min_temp_°C": 0.4,
+            "max_temp_°C": 3.5,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Varsóvia",
+            "date": "2024-12-13",
+            "min_temp_°C": -0.0,
+            "max_temp_°C": 2.7,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Varsóvia",
+            "date": "2024-12-14",
+            "min_temp_°C": -0.7,
+            "max_temp_°C": 1.6,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Florianópolis",
+            "date": "2024-12-09",
+            "min_temp_°C": 17.9,
+            "max_temp_°C": 19.2,
+            "chance_rain_%": 100
+        },
+        {
+            "city": "Florianópolis",
+            "date": "2024-12-10",
+            "min_temp_°C": 18.2,
+            "max_temp_°C": 20.6,
+            "chance_rain_%": 88
+        },
+        {
+            "city": "Florianópolis",
+            "date": "2024-12-11",
+            "min_temp_°C": 19.0,
+            "max_temp_°C": 23.4,
+            "chance_rain_%": 89
+        },
+        {
+            "city": "Florianópolis",
+            "date": "2024-12-12",
+            "min_temp_°C": 19.1,
+            "max_temp_°C": 24.0,
+            "chance_rain_%": 89
+        },
+        {
+            "city": "Florianópolis",
+            "date": "2024-12-13",
+            "min_temp_°C": 19.3,
+            "max_temp_°C": 24.7,
+            "chance_rain_%": 83
+        },
+        {
+            "city": "Florianópolis",
+            "date": "2024-12-14",
+            "min_temp_°C": 19.8,
+            "max_temp_°C": 20.6,
+            "chance_rain_%": 87
+        },
+        {
+            "city": "Florianópolis",
+            "date": "2024-12-15",
+            "min_temp_°C": 20.4,
+            "max_temp_°C": 25.1,
+            "chance_rain_%": 85
+        },
+        {
+            "city": "Florianópolis",
+            "date": "2024-12-16",
+            "min_temp_°C": 20.5,
+            "max_temp_°C": 25.9,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Florianópolis",
+            "date": "2024-12-17",
+            "min_temp_°C": 20.0,
+            "max_temp_°C": 26.5,
+            "chance_rain_%": 83
+        },
+        {
+            "city": "Florianópolis",
+            "date": "2024-12-18",
+            "min_temp_°C": 20.1,
+            "max_temp_°C": 26.7,
+            "chance_rain_%": 88
+        },
+        {
+            "city": "Londres",
+            "date": "2025-02-18",
+            "min_temp_°C": 15.6,
+            "max_temp_°C": 24.5,
+            "chance_rain_%": 100
+        }
+    ],
+    "pedro": [
+        {
+            "city": "Londres",
+            "date": "2024-12-06",
+            "min_temp_°C": 16.6,
+            "max_temp_°C": 31.5,
+            "chance_rain_%": 45
+        },
+        {
+            "city": "Londres",
+            "date": "2024-12-07",
+            "min_temp_°C": 10.6,
+            "max_temp_°C": 19.1,
+            "chance_rain_%": 88
+        },
+        {
+            "city": "Londres",
+            "date": "2024-12-08",
+            "min_temp_°C": 10.5,
+            "max_temp_°C": 24.7,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Londres",
+            "date": "2024-12-09",
+            "min_temp_°C": 16.7,
+            "max_temp_°C": 27.6,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Londres",
+            "date": "2024-12-10",
+            "min_temp_°C": 19.3,
+            "max_temp_°C": 29.1,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Londres",
+            "date": "2024-12-11",
+            "min_temp_°C": 22.1,
+            "max_temp_°C": 30.4,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Londres",
+            "date": "2024-12-12",
+            "min_temp_°C": 19.5,
+            "max_temp_°C": 26.7,
+            "chance_rain_%": 88
+        },
+        {
+            "city": "Londres",
+            "date": "2024-12-13",
+            "min_temp_°C": 16.7,
+            "max_temp_°C": 20.3,
+            "chance_rain_%": 85
+        },
+        {
+            "city": "Londres",
+            "date": "2024-12-14",
+            "min_temp_°C": 17.8,
+            "max_temp_°C": 24.3,
+            "chance_rain_%": 0
+        },
+        {
+            "city": "Londres",
+            "date": "2024-12-15",
+            "min_temp_°C": 18.7,
+            "max_temp_°C": 26.8,
+            "chance_rain_%": 0
+        }
+    ]
+}
