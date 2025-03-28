@@ -10,6 +10,15 @@ Aplicativo simples de previsão do tempo desenvolvido em Python, utilizando a AP
 - **WeatherAPI**: Fonte dos dados meteorológicos
 - **MongoDB Atlas**: Banco de dados na nuvem para armazenar informações
 
+
+## Funcionalidades
+
+- Permite inserir o nome de uma cidade e obter dados climáticos atuais.
+- Exibe temperatura, umidade, condição do tempo e velocidade do vento.
+- Interface simples e intuitiva usando Tkinter.
+- Armazena informações meteorológicas no MongoDB Atlas.
+
+
 ## Como Executar o Projeto
 
 ### 1. Clonar o repositório
@@ -66,10 +75,3 @@ API_KEY="sua_chave_da_WeatherAPI"
 ```bash
 python main.py
 ```
-
-## Funcionalidades
-
-- Permite inserir o nome de uma cidade e obter dados climáticos atuais.
-- Exibe temperatura, umidade, condição do tempo e velocidade do vento.
-- Interface simples e intuitiva usando Tkinter.
-- Armazena informações meteorológicas no MongoDB Atlas.
